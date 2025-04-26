@@ -1,0 +1,522 @@
+[
+    {
+        "name": "[Melee] Spinal Surge",
+        "type": "power",
+        "img": "icons/svg/energy.svg",
+        "system": {
+            "description": {
+                "value": "Boost your body via crude spinal tech.\n\nEffect: +2 Melee attack, +1 Resilience defense for 1 round.\nCost: 5 Focus."
+            },
+            "powerSet": "Melee Weapons",
+            "available": true
+        },
+        "folder": "Cyber-Brawler"
+    },
+    {
+        "name": "[Defense] Armor Reinforcement Patch",
+        "type": "power",
+        "img": "icons/svg/shield.svg",
+        "system": {
+            "description": {
+                "value": "Quick application of self-hardening spray armor.\n\nEffect: +2 Resilience defense for 2 rounds.\nCost: 5 Focus."
+            },
+            "powerSet": "Basic Powers",
+            "available": true
+        },
+        "folder": "Cyber-Brawler"
+    },
+    {
+        "name": "[Telepathy] Neural Burn",
+        "type": "power",
+        "img": "icons/svg/brain.svg",
+        "system": {
+            "description": {
+                "value": "EMP burst fries cheap implants.\n\nEffect: Hack enemy with Tech Reliance — trouble for 1 round (stun on Fantastic).\nCost: 15 Focus."
+            },
+            "powerSet": "Telepathy",
+            "available": true
+        },
+        "folder": "Cyber-Brawler"
+    },
+    {
+        "name": "[Ranged] Shock Dart Launcher",
+        "type": "power",
+        "img": "icons/svg/projectile.svg",
+        "system": {
+            "description": {
+                "value": "Launch electrified darts from a concealed wrist device.\n\nEffect: Deal electric damage; target must succeed Resilience check or be Staggered for 1 round.\nCost: 10 Focus."
+            },
+            "powerSet": "Ranged Weapons",
+            "available": true
+        },
+        "folder": "Cyber-Brawler"
+    },
+    {
+        "name": "[Melee] Cybernetic Strike 5",
+        "type": "power",
+        "img": "icons/svg/sword.svg",
+        "system": {
+            "description": {
+                "value": "Brutal melee cyber attack #5.\n\nEffect: +1 bonus to damage.\nCost: 5 Focus."
+            },
+            "powerSet": "Telepathy",
+            "available": true
+        },
+        "folder": "Cyber-Brawler"
+    },
+    {
+        "name": "[Melee] Cybernetic Strike 6",
+        "type": "power",
+        "img": "icons/svg/sword.svg",
+        "system": {
+            "description": {
+                "value": "Brutal melee cyber attack #6.\n\nEffect: +1 bonus to damage.\nCost: 5 Focus."
+            },
+            "powerSet": "Melee Weapons",
+            "available": true
+        },
+        "folder": "Cyber-Brawler"
+    },
+    {
+        "name": "[Melee] Cybernetic Strike 7",
+        "type": "power",
+        "img": "icons/svg/sword.svg",
+        "system": {
+            "description": {
+                "value": "Brutal melee cyber attack #7.\n\nEffect: +1 bonus to damage.\nCost: 5 Focus."
+            },
+            "powerSet": "Telepathy",
+            "available": true
+        },
+        "folder": "Cyber-Brawler"
+    },
+    {
+        "name": "[Melee] Cybernetic Strike 8",
+        "type": "power",
+        "img": "icons/svg/sword.svg",
+        "system": {
+            "description": {
+                "value": "Brutal melee cyber attack #8.\n\nEffect: +1 bonus to damage.\nCost: 5 Focus."
+            },
+            "powerSet": "Melee Weapons",
+            "available": true
+        },
+        "folder": "Cyber-Brawler"
+    },
+    {
+        "name": "[Melee] Cybernetic Strike 9",
+        "type": "power",
+        "img": "icons/svg/sword.svg",
+        "system": {
+            "description": {
+                "value": "Brutal melee cyber attack #9.\n\nEffect: +1 bonus to damage.\nCost: 5 Focus."
+            },
+            "powerSet": "Telepathy",
+            "available": true
+        },
+        "folder": "Cyber-Brawler"
+    },
+    {
+        "name": "[Melee] Cybernetic Strike 10",
+        "type": "power",
+        "img": "icons/svg/sword.svg",
+        "system": {
+            "description": {
+                "value": "Brutal melee cyber attack #10.\n\nEffect: +1 bonus to damage.\nCost: 5 Focus."
+            },
+            "powerSet": "Melee Weapons",
+            "available": true
+        },
+        "folder": "Cyber-Brawler"
+    },
+    {
+        "name": "[Melee] Cybernetic Strike 11",
+        "type": "power",
+        "img": "icons/svg/sword.svg",
+        "system": {
+            "description": {
+                "value": "Brutal melee cyber attack #11.\n\nEffect: +1 bonus to damage.\nCost: 5 Focus."
+            },
+            "powerSet": "Telepathy",
+            "available": true
+        },
+        "folder": "Cyber-Brawler"
+    },
+    {
+        "name": "[Melee] Cybernetic Strike 12",
+        "type": "power",
+        "img": "icons/svg/sword.svg",
+        "system": {
+            "description": {
+                "value": "Brutal melee cyber attack #12.\n\nEffect: +1 bonus to damage.\nCost: 5 Focus."
+            },
+            "powerSet": "Melee Weapons",
+            "available": true
+        },
+        "folder": "Cyber-Brawler"
+    },
+    {
+        "name": "[Melee] Cybernetic Strike 13",
+        "type": "power",
+        "img": "icons/svg/sword.svg",
+        "system": {
+            "description": {
+                "value": "Brutal melee cyber attack #13.\n\nEffect: +1 bonus to damage.\nCost: 5 Focus."
+            },
+            "powerSet": "Telepathy",
+            "available": true
+        },
+        "folder": "Cyber-Brawler"
+    },
+    {
+        "name": "[Melee] Cybernetic Strike 14",
+        "type": "power",
+        "img": "icons/svg/sword.svg",
+        "system": {
+            "description": {
+                "value": "Brutal melee cyber attack #14.\n\nEffect: +1 bonus to damage.\nCost: 5 Focus."
+            },
+            "powerSet": "Melee Weapons",
+            "available": true
+        },
+        "folder": "Cyber-Brawler"
+    },
+    {
+        "name": "[Melee] Cybernetic Strike 15",
+        "type": "power",
+        "img": "icons/svg/sword.svg",
+        "system": {
+            "description": {
+                "value": "Brutal melee cyber attack #15.\n\nEffect: +1 bonus to damage.\nCost: 5 Focus."
+            },
+            "powerSet": "Telepathy",
+            "available": true
+        },
+        "folder": "Cyber-Brawler"
+    },
+    {
+        "name": "[Melee] Cybernetic Strike 16",
+        "type": "power",
+        "img": "icons/svg/sword.svg",
+        "system": {
+            "description": {
+                "value": "Brutal melee cyber attack #16.\n\nEffect: +1 bonus to damage.\nCost: 5 Focus."
+            },
+            "powerSet": "Melee Weapons",
+            "available": true
+        },
+        "folder": "Cyber-Brawler"
+    },
+    {
+        "name": "[Melee] Cybernetic Strike 17",
+        "type": "power",
+        "img": "icons/svg/sword.svg",
+        "system": {
+            "description": {
+                "value": "Brutal melee cyber attack #17.\n\nEffect: +1 bonus to damage.\nCost: 5 Focus."
+            },
+            "powerSet": "Telepathy",
+            "available": true
+        },
+        "folder": "Cyber-Brawler"
+    },
+    {
+        "name": "[Melee] Cybernetic Strike 18",
+        "type": "power",
+        "img": "icons/svg/sword.svg",
+        "system": {
+            "description": {
+                "value": "Brutal melee cyber attack #18.\n\nEffect: +1 bonus to damage.\nCost: 5 Focus."
+            },
+            "powerSet": "Melee Weapons",
+            "available": true
+        },
+        "folder": "Cyber-Brawler"
+    },
+    {
+        "name": "[Melee] Cybernetic Strike 19",
+        "type": "power",
+        "img": "icons/svg/sword.svg",
+        "system": {
+            "description": {
+                "value": "Brutal melee cyber attack #19.\n\nEffect: +1 bonus to damage.\nCost: 5 Focus."
+            },
+            "powerSet": "Telepathy",
+            "available": true
+        },
+        "folder": "Cyber-Brawler"
+    },
+    {
+        "name": "[Melee] Cybernetic Strike 20",
+        "type": "power",
+        "img": "icons/svg/sword.svg",
+        "system": {
+            "description": {
+                "value": "Brutal melee cyber attack #20.\n\nEffect: +1 bonus to damage.\nCost: 5 Focus."
+            },
+            "powerSet": "Melee Weapons",
+            "available": true
+        },
+        "folder": "Cyber-Brawler"
+    },
+    {
+        "name": "[Melee] Cybernetic Strike 21",
+        "type": "power",
+        "img": "icons/svg/sword.svg",
+        "system": {
+            "description": {
+                "value": "Brutal melee cyber attack #21.\n\nEffect: +1 bonus to damage.\nCost: 5 Focus."
+            },
+            "powerSet": "Telepathy",
+            "available": true
+        },
+        "folder": "Cyber-Brawler"
+    },
+    {
+        "name": "[Melee] Cybernetic Strike 22",
+        "type": "power",
+        "img": "icons/svg/sword.svg",
+        "system": {
+            "description": {
+                "value": "Brutal melee cyber attack #22.\n\nEffect: +1 bonus to damage.\nCost: 5 Focus."
+            },
+            "powerSet": "Melee Weapons",
+            "available": true
+        },
+        "folder": "Cyber-Brawler"
+    },
+    {
+        "name": "[Melee] Cybernetic Strike 23",
+        "type": "power",
+        "img": "icons/svg/sword.svg",
+        "system": {
+            "description": {
+                "value": "Brutal melee cyber attack #23.\n\nEffect: +1 bonus to damage.\nCost: 5 Focus."
+            },
+            "powerSet": "Telepathy",
+            "available": true
+        },
+        "folder": "Cyber-Brawler"
+    },
+    {
+        "name": "[Melee] Cybernetic Strike 24",
+        "type": "power",
+        "img": "icons/svg/sword.svg",
+        "system": {
+            "description": {
+                "value": "Brutal melee cyber attack #24.\n\nEffect: +1 bonus to damage.\nCost: 5 Focus."
+            },
+            "powerSet": "Melee Weapons",
+            "available": true
+        },
+        "folder": "Cyber-Brawler"
+    },
+    {
+        "name": "[Melee] Cybernetic Strike 25",
+        "type": "power",
+        "img": "icons/svg/sword.svg",
+        "system": {
+            "description": {
+                "value": "Brutal melee cyber attack #25.\n\nEffect: +1 bonus to damage.\nCost: 5 Focus."
+            },
+            "powerSet": "Telepathy",
+            "available": true
+        },
+        "folder": "Cyber-Brawler"
+    },
+    {
+        "name": "[Melee] Cybernetic Strike 26",
+        "type": "power",
+        "img": "icons/svg/sword.svg",
+        "system": {
+            "description": {
+                "value": "Brutal melee cyber attack #26.\n\nEffect: +1 bonus to damage.\nCost: 5 Focus."
+            },
+            "powerSet": "Melee Weapons",
+            "available": true
+        },
+        "folder": "Cyber-Brawler"
+    },
+    {
+        "name": "[Melee] Cybernetic Strike 27",
+        "type": "power",
+        "img": "icons/svg/sword.svg",
+        "system": {
+            "description": {
+                "value": "Brutal melee cyber attack #27.\n\nEffect: +1 bonus to damage.\nCost: 5 Focus."
+            },
+            "powerSet": "Telepathy",
+            "available": true
+        },
+        "folder": "Cyber-Brawler"
+    },
+    {
+        "name": "[Melee] Cybernetic Strike 28",
+        "type": "power",
+        "img": "icons/svg/sword.svg",
+        "system": {
+            "description": {
+                "value": "Brutal melee cyber attack #28.\n\nEffect: +1 bonus to damage.\nCost: 5 Focus."
+            },
+            "powerSet": "Melee Weapons",
+            "available": true
+        },
+        "folder": "Cyber-Brawler"
+    },
+    {
+        "name": "[Melee] Cybernetic Strike 29",
+        "type": "power",
+        "img": "icons/svg/sword.svg",
+        "system": {
+            "description": {
+                "value": "Brutal melee cyber attack #29.\n\nEffect: +1 bonus to damage.\nCost: 5 Focus."
+            },
+            "powerSet": "Telepathy",
+            "available": true
+        },
+        "folder": "Cyber-Brawler"
+    },
+    {
+        "name": "[Melee] Cybernetic Strike 30",
+        "type": "power",
+        "img": "icons/svg/sword.svg",
+        "system": {
+            "description": {
+                "value": "Brutal melee cyber attack #30.\n\nEffect: +1 bonus to damage.\nCost: 5 Focus."
+            },
+            "powerSet": "Melee Weapons",
+            "available": true
+        },
+        "folder": "Cyber-Brawler"
+    },
+    {
+        "name": "[Melee] Cybernetic Strike 31",
+        "type": "power",
+        "img": "icons/svg/sword.svg",
+        "system": {
+            "description": {
+                "value": "Brutal melee cyber attack #31.\n\nEffect: +1 bonus to damage.\nCost: 5 Focus."
+            },
+            "powerSet": "Telepathy",
+            "available": true
+        },
+        "folder": "Cyber-Brawler"
+    },
+    {
+        "name": "[Melee] Cybernetic Strike 32",
+        "type": "power",
+        "img": "icons/svg/sword.svg",
+        "system": {
+            "description": {
+                "value": "Brutal melee cyber attack #32.\n\nEffect: +1 bonus to damage.\nCost: 5 Focus."
+            },
+            "powerSet": "Melee Weapons",
+            "available": true
+        },
+        "folder": "Cyber-Brawler"
+    },
+    {
+        "name": "[Melee] Cybernetic Strike 33",
+        "type": "power",
+        "img": "icons/svg/sword.svg",
+        "system": {
+            "description": {
+                "value": "Brutal melee cyber attack #33.\n\nEffect: +1 bonus to damage.\nCost: 5 Focus."
+            },
+            "powerSet": "Telepathy",
+            "available": true
+        },
+        "folder": "Cyber-Brawler"
+    },
+    {
+        "name": "[Melee] Cybernetic Strike 34",
+        "type": "power",
+        "img": "icons/svg/sword.svg",
+        "system": {
+            "description": {
+                "value": "Brutal melee cyber attack #34.\n\nEffect: +1 bonus to damage.\nCost: 5 Focus."
+            },
+            "powerSet": "Melee Weapons",
+            "available": true
+        },
+        "folder": "Cyber-Brawler"
+    },
+    {
+        "name": "[Melee] Cybernetic Strike 35",
+        "type": "power",
+        "img": "icons/svg/sword.svg",
+        "system": {
+            "description": {
+                "value": "Brutal melee cyber attack #35.\n\nEffect: +1 bonus to damage.\nCost: 5 Focus."
+            },
+            "powerSet": "Telepathy",
+            "available": true
+        },
+        "folder": "Cyber-Brawler"
+    },
+    {
+        "name": "[Melee] Cybernetic Strike 36",
+        "type": "power",
+        "img": "icons/svg/sword.svg",
+        "system": {
+            "description": {
+                "value": "Brutal melee cyber attack #36.\n\nEffect: +1 bonus to damage.\nCost: 5 Focus."
+            },
+            "powerSet": "Melee Weapons",
+            "available": true
+        },
+        "folder": "Cyber-Brawler"
+    },
+    {
+        "name": "[Melee] Cybernetic Strike 37",
+        "type": "power",
+        "img": "icons/svg/sword.svg",
+        "system": {
+            "description": {
+                "value": "Brutal melee cyber attack #37.\n\nEffect: +1 bonus to damage.\nCost: 5 Focus."
+            },
+            "powerSet": "Telepathy",
+            "available": true
+        },
+        "folder": "Cyber-Brawler"
+    },
+    {
+        "name": "[Melee] Cybernetic Strike 38",
+        "type": "power",
+        "img": "icons/svg/sword.svg",
+        "system": {
+            "description": {
+                "value": "Brutal melee cyber attack #38.\n\nEffect: +1 bonus to damage.\nCost: 5 Focus."
+            },
+            "powerSet": "Melee Weapons",
+            "available": true
+        },
+        "folder": "Cyber-Brawler"
+    },
+    {
+        "name": "[Melee] Cybernetic Strike 39",
+        "type": "power",
+        "img": "icons/svg/sword.svg",
+        "system": {
+            "description": {
+                "value": "Brutal melee cyber attack #39.\n\nEffect: +1 bonus to damage.\nCost: 5 Focus."
+            },
+            "powerSet": "Telepathy",
+            "available": true
+        },
+        "folder": "Cyber-Brawler"
+    },
+    {
+        "name": "[Melee] Cybernetic Strike 40",
+        "type": "power",
+        "img": "icons/svg/sword.svg",
+        "system": {
+            "description": {
+                "value": "Brutal melee cyber attack #40.\n\nEffect: +1 bonus to damage.\nCost: 5 Focus."
+            },
+            "powerSet": "Melee Weapons",
+            "available": true
+        },
+        "folder": "Cyber-Brawler"
+    }
+]
